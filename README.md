@@ -1,5 +1,5 @@
 # Matriz em espiral
-Resolução do desafio Calculando Estatísticas Simples, dojopuzzles.com/problemas/exibe/matriz-espiral
+Resolução do desafio Matriz Espiral, dojopuzzles.com/problemas/exibe/matriz-espiral
 
 > INACABADO!
 
